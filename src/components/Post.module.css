@@ -1,0 +1,11 @@
+.post_body {
+    margin: 15px 20px;
+}
+
+.likes {
+    font-size: 15px;
+}
+
+.likes span {
+  color: red;   
+}
